@@ -1,0 +1,10 @@
+{
+    "name": "used_car_price_prediction",
+    "metrics": {
+        "r2": 0.84
+    },
+    "version": 2,
+    "registration_date": "2026-06-27T11:28:51.887849",
+    "model": "used_car_price_prediction_model_v2.joblib",
+    "features": "used_car_price_prediction_features_v2.joblib"
+}

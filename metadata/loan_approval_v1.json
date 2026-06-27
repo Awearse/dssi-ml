@@ -1,11 +1,11 @@
 {
     "name": "loan_approval",
     "metrics": {
-        "fdr": 0.01,
+        "fdr": 0.02,
         "recall": 0.97
     },
     "version": 1,
-    "registration_date": "2026-06-24T14:54:24.050093",
+    "registration_date": "2026-06-27T14:37:46.196955",
     "model": "loan_approval_model_v1.joblib",
     "features": "loan_approval_features_v1.joblib"
 }
